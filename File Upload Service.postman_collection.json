@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "933a1806-01f9-4afe-9f79-86b72e449e3a",
+		"name": "File Upload Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38923433"
+	},
+	"item": [
+		{
+			"name": "uploadImage",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
